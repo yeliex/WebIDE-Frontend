@@ -85,7 +85,7 @@
   },
   "dependencies": {
     "animated-scrollto": "^1.1.0",
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "bootstrap-styl": "^5.0.7",
     "classnames": "^2.2.5",
     "clipboard": "^1.6.1",
